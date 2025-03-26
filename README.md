@@ -1,10 +1,8 @@
-# AstroGames
+# Dodgeux
 
-Astro Games is a fun website with a variety of games, featuring a clean Ul for easy navigation.
+Doadgeux is a fun website with a variety of games, featuring a clean Ul for easy navigation.
 
-[astrogames06.github.io](https://astrogames06.github.io/)
+[dodgeux.github.pro](dodgeux.github.pro)
 
-<br> <br>
-<a href="https://discord.com/invite/MyZCWQM94A">
-  <img src="https://invidget.switchblade.xyz/MyZCWQM94A">
-</a>
+90% credit to Jesse Sher for astro games
+
